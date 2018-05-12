@@ -1,0 +1,63 @@
+_repo: A-Week-at-Waterloo-in-1815--13-Lady-De-Lancey-s-Narrative--Being-an-Account-of-How-She-Nursed__31517
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Lancey, Magdalene, Lady
+    aliases:
+    - Hall, Magdalene
+    - Harvey, Magdalene
+    - Lancey, Magdalene de, Lady
+    birthdate: 1793
+    deathdate: 1822
+    gutenberg_agent_id: '35289'
+    url: http://www.gutenberg.org/2009/agents/35289
+  editor:
+    agent_name: Ward, B. R. (Bernard Rowland)
+    alias: Ward, Bernard Rowland
+    birthdate: 1863
+    gutenberg_agent_id: '35290'
+    url: http://www.gutenberg.org/2009/agents/35290
+description: ''
+gutenberg_bookshelf: Napoleonic(Bookshelf)
+gutenberg_issued: '2010-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31517'
+  lccn: 07008229
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waterloo, Battle of, Waterloo, Belgium, 1815'
+- !lcc 'DC'
+- !lcsh 'De Lancey, William Howe, Sir, 1778-1815'
+title: "A Week at Waterloo in 1815\r\nLady De Lancey's Narrative: Being an Account\
+  \ of How She Nursed Her Husband, Colonel Sir William Howe De Lancey, Quartermaster-General\
+  \ of the Army, Mortally Wounded in the Great Battle"
+url: http://www.gutenberg.org/ebooks/31517

@@ -43,6 +43,8 @@ creator:
     gutenberg_agent_id: '35290'
     url: http://www.gutenberg.org/2009/agents/35290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31517#A-Week-at-Waterloo-in-1815--13-Lady-De-Lancey-s-Narrative--Being-an-Account-of-How-She-Nursed_
 gutenberg_bookshelf: Napoleonic(Bookshelf)
 gutenberg_issued: '2010-03-06'
 gutenberg_type: Text
